@@ -15,6 +15,9 @@ creators appeal, and records every decision in a structured audit log.
 See [planning.md](planning.md) for the full spec, architecture diagram, and the
 AI tool plan written before implementation.
 
+# DEMO Video
+https://www.loom.com/share/cd2f6698e82d489abe107aeeb716d1d1
+
 ---
 
 ## Setup
