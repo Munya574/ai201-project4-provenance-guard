@@ -1,0 +1,23 @@
+# Environment
+.env
+
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Local database / logs
+*.db
+*.sqlite3
+provenance_guard.db
+audit_log.jsonl
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
